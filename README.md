@@ -72,7 +72,7 @@ To deploy the server to Heroku, you need to add the Google Chrome Buildpack. Go 
 
 ### Deploy to DigitalOcean
 
-The easiest way to deploy to DigitalOcean is to use the dockerized image and run it on the DigitalOcean App Platform. Go to https://cloud.digitalocean.com/apps/new and connect your Github repository and deploy the
+The easiest way to deploy to DigitalOcean is to use the dockerized image and run it on the DigitalOcean App Platform. Go to https://cloud.digitalocean.com/apps/new and connect your Github repository and deploy the image.
 
 ### Serverless
 
